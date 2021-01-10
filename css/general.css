@@ -1,0 +1,18 @@
+
+
+.nav-item:hover.nav-item:hover{
+  background-color:#ccccff;
+  padding: 8px;
+}
+.home-screen-background {
+  float: left;
+  width:  100px;
+  height: 100px;
+  object-fit: cover;
+}
+.text-over-image {
+  
+  font-family: "Sofia", sans-serif;
+  font-size: 30px;
+  
+}
