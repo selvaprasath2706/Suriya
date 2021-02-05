@@ -8,11 +8,11 @@
   float: left;
   width:  100px;
   height: 100px;
-  object-fit: cover;
+    overflow:hidden;
 }
 .text-over-image {
   
   font-family: "Sofia", sans-serif;
   font-size: 30px;
-  
+  color: black;  
 }
